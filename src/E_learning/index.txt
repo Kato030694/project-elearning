@@ -1,0 +1,15 @@
+Luu y trong du an
+- React-Redux
+=> npm i react-redux -s
+- Call API bang axios
+=> npm i axios -s
+- Quan ly form bang formik, quan ly validation bang yup
+=> npm i formik yup -s
+- Cal API signup
+- Nang cap axios
+- Nang cap Action Creator
+- Routing la co che chuyen doi qua lai giua cac component, ReactJS la singlePage, nen chi co 1 trang,
+con lai tat ca deu la component, nen can thiet lap routing de chuyen doi giua cac component voi nhau
+=> npm i react-router-dom -s
+- Single Page, trang web chi load lan dau tien, va sau do se chuyen cac component khong load lai
+- Truyen tham so qua URL
